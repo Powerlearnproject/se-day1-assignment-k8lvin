@@ -4,17 +4,14 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
-software development is the process of designing, development, testing, deployment and maintainance of software.
+Explain what software engineering is and discuss its importance in the technology industry.software development is the process of designing, development, testing, deployment and maintainance of software.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
-waterfall model - provided the first structured approach to software development.
+Identify and describe at least three key milestones in the evolution of software engineering. waterfall model - provided the first structured approach to software development.
 Agile methodologies - shifted the focus towards flexibility and customer collaboration.
 open source software - democratized access to software tools and fostered a culture of collaboration and innovation.
 
-List and briefly explain the phases of the Software Development Life Cycle.
-planning - defining scope and objective of the project.
+List and briefly explain the phases of the Software Development Life Cycle.planning - defining scope and objective of the project.
 Analysis - analyzing the gathered requirements and understanding user needs.
 Design - development of architecture and design of the software.
 Implementation - writing the actual code and developing the software.
@@ -22,11 +19,9 @@ Testing - evaluation of the software to ensure it meets standards and works as i
 Deployment - releasing the software for use by end users
 Maintainance - ongoing support and updates for the software.
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-waterfall methodology consists of distinct phases that must be completed before moving to the next eg developing a payroll system while Agile methodology focus on iterative development,flexibility and customer collaboration. eg developing a task management system.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.waterfall methodology consists of distinct phases that must be completed before moving to the next eg developing a payroll system while Agile methodology focus on iterative development,flexibility and customer collaboration. eg developing a task management system.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software developer is responsible for coding,testing and maintaining software applications.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.Software developer is responsible for coding,testing and maintaining software applications.
 Quality assurance engineer - ensures that the software meets the required software standards and functions correctly.
 Project manager ensures a project meets its goals and objectives on time and within budget while also managing the team and communicating with the stakeholders.
 
