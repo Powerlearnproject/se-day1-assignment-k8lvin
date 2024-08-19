@@ -9,18 +9,18 @@ software development is the process of designing,development,testing,deployment,
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1: waterfall model - provided the first structured approach to software development.
-2:  Agile methodologies - shifted the focus towards flexibility and customer collaboration.
-3: open source software - democratized access to software tools and fostered a culture of collaboration and innovation.
+waterfall model - provided the first structured approach to software development.
+Agile methodologies - shifted the focus towards flexibility and customer collaboration.
+open source software - democratized access to software tools and fostered a culture of collaboration and innovation.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-1: planning - defining scope and objective of the project.
-2:Analysis - analyzing the gathered requirements and understanding user needs.
-3:Design - development of architecture and design of the software.
-4:Implementation - writing the actual code and developing the software.
-5:Testing - evaluation of the software to ensure it meets standards and works as intended.
-6:Deployment - releasing the software for use by end users
-7:Maintainance - ongoing support and updates for the software.
+planning - defining scope and objective of the project.
+Analysis - analyzing the gathered requirements and understanding user needs.
+Design - development of architecture and design of the software.
+Implementation - writing the actual code and developing the software.
+Testing - evaluation of the software to ensure it meets standards and works as intended.
+Deployment - releasing the software for use by end users
+Maintainance - ongoing support and updates for the software.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology consists of distinct phases that must be completed before moving to the next eg developing a payroll system while Agile methodology focus on iterative development,flexibility and customer collaboration. eg developing a task management system.
@@ -36,10 +36,10 @@ IDEs provide a cohesive environment where developers can code,test,debug and dep
 VCS offer robust tools for collaboration,code management and quality assurance. eg Git.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-1: keeping up with the rapid technological changes - continuous learning and participate in tech communities to enhance learning.
-2: handling tight deadlines - employ effective time management to maintain productivity without burning out.
-3: maintaining work,life balance - prioritize mental and physical health and establish clear work hours and sticking to them.
-4: managing complexity - implement well known design patterns to solve recurring design problems.
+keeping up with the rapid technological changes - continuous learning and participate in tech communities to enhance learning.
+handling tight deadlines - employ effective time management to maintain productivity without burning out.
+maintaining work,life balance - prioritize mental and physical health and establish clear work hours and sticking to them.
+managing complexity - implement well known design patterns to solve recurring design problems.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
