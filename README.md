@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-software development is the process of designing, development, testing, deployment and maintainance of software.
+Software development is the systematic application of engineering principles, methods and tools to the development and maintenance of high quality software systems.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -14,26 +14,27 @@ Agile methodologies - shifted the focus towards flexibility and customer collabo
 open source software - democratized access to software tools and fostered a culture of collaboration and innovation.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-planning - defining scope and objective of the project.
-Analysis - analyzing the gathered requirements and understanding user needs.
-Design - development of architecture and design of the software.
-Implementation - writing the actual code and developing the software.
-Testing - evaluation of the software to ensure it meets standards and works as intended.
-Deployment - releasing the software for use by end users
-Maintainance - ongoing support and updates for the software.
+Requirements: Gathering and documenting user needs and system requirements.
+Design: Creating high-level and detailed designs of the software architecture and user interface. 
+Implementation: Writing code and building the software according to the design specifications.
+Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+Deployment: Releasing the software to users or customers.
+Maintenance: providing ongoing support, updates and enhancements to the software after deployment.
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-waterfall methodology consists of distinct phases that must be completed before moving to the next eg developing a payroll system while Agile methodology focus on iterative development,flexibility and customer collaboration. eg developing a task management system.
+Waterfall methodology is a sequential approach with distinct phases flowing downwards like a waterfall e.g. developing a payroll system while Agile methodology is an iterative and incremental approach focused on flexibility, collaboration and responding to changes e.g a task management system.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software developer is responsible for coding,testing and maintaining software applications.
-Quality assurance engineer - ensures that the software meets the required software standards and functions correctly.
-Project manager ensures a project meets its goals and objectives on time and within budget while also managing the team and communicating with the stakeholders.
+Software developer is responsible for coding, testing and maintaining software solutions.
+Quality assurance engineer - ensures software quality by designing and executing software plans.
+Project manager overseas the planning execution and delivery of software projects
+
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 IDEs provide a cohesive environment where developers can code,test,debug and deploy code efficiently. eg visual studio code.
-VCS offer robust tools for collaboration,code management and quality assurance. eg Git.
+Version control systems track changes to source code and coordinating work among team members.  E.g. Git.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 keeping up with the rapid technological changes - continuous learning and participate in tech communities to enhance learning.
